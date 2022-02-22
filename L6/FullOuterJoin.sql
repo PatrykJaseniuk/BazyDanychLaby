@@ -1,0 +1,1 @@
+select imie, nazwisko, iloscDostepnychWizyt  from (klient full outer join klient_has_karnet on idKlient = klient_idKlient) full outer join karnet on karnet_idKarnet = idKarnet

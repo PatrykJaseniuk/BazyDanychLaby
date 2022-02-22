@@ -1,0 +1,1 @@
+select imie, nazwisko from (klient inner join klient_has_karnet on idKlient = klient_idKlient) inner join karnet on karnet_idKarnet = idKarnet

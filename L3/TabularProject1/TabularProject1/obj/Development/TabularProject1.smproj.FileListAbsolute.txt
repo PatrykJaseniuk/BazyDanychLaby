@@ -1,0 +1,7 @@
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\bin\Model.asdatabase
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\bin\Model.deploymenttargets
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\bin\Model.deploymentoptions
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\obj\Development\TabularProject1.smproj.CoreCompileInputs.cache
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\obj\Development\Model.asdatabase
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\obj\Development\Model.deploymentoptions
+C:\S5\BazyDanychLaby\L3\TabularProject1\TabularProject1\obj\Development\Model.deploymenttargets
